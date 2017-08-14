@@ -1,0 +1,12 @@
+c:\users\kikemon\documents\visual studio 2013\Projects\aplicacionkike\aplicacionkike\bin\Debug\aplicacionkike.exe.config
+c:\users\kikemon\documents\visual studio 2013\Projects\aplicacionkike\aplicacionkike\bin\Debug\aplicacionkike.exe
+c:\users\kikemon\documents\visual studio 2013\Projects\aplicacionkike\aplicacionkike\bin\Debug\aplicacionkike.pdb
+c:\users\kikemon\documents\visual studio 2013\Projects\aplicacionkike\aplicacionkike\bin\Debug\aplicacionkike.xml
+c:\users\kikemon\documents\visual studio 2013\Projects\aplicacionkike\aplicacionkike\obj\Debug\aplicacionkike.Form1.resources
+c:\users\kikemon\documents\visual studio 2013\Projects\aplicacionkike\aplicacionkike\obj\Debug\aplicacionkike.Resources.resources
+c:\users\kikemon\documents\visual studio 2013\Projects\aplicacionkike\aplicacionkike\obj\Debug\aplicacionkike.vbproj.GenerateResource.Cache
+c:\users\kikemon\documents\visual studio 2013\Projects\aplicacionkike\aplicacionkike\obj\Debug\aplicacionkike.exe
+c:\users\kikemon\documents\visual studio 2013\Projects\aplicacionkike\aplicacionkike\obj\Debug\aplicacionkike.xml
+c:\users\kikemon\documents\visual studio 2013\Projects\aplicacionkike\aplicacionkike\obj\Debug\aplicacionkike.pdb
+C:\Users\kikemon\Documents\Visual Studio 2013\Projects\aplicacionkike\aplicacionkike\obj\Debug\aplicacionkike.vbprojResolveAssemblyReference.cache
+C:\Users\kikemon\Documents\Visual Studio 2013\Projects\aplicacionkike\aplicacionkike\obj\Debug\aplicacionkike.Form2.resources
